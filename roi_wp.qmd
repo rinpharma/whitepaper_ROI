@@ -1,0 +1,48 @@
+---
+title: "Adopting Open-Source in Clinical Trial Reporting: Return on Investment"
+format: html
+toc: true
+---
+
+# Background
+
+- brief intro of open-source adoption in clinical trial reporting
+- Often driven by risk mitigation:
+    - talent pool 
+    - dynamic data viz
+    - opportunity for cross-industry collaboration
+    - interoperability (AI)
+    - reduced vendor lock in
+
+# Return on Investment
+
+## End-user perspective
+We could further split this into personas?   
+
+Keeping it general for now: 
+
+- develop transferable skills 
+    - usage of industry-wide tools and languages such a git, R
+    - adopt to modern ways of working (agile, best practices)
+
+- contribute to the community
+    - share your work publicly
+
+## Business perspective
+
+- Efficiency
+    - reduced single-use code
+    - shared development and shared maintenance (we could use some of James' material here on commits, issues)
+
+- Quality
+    - crowdsourced testing and issue tracking
+    - pan-study code is seen by "many eyes"
+
+- Talent
+    - minimise upskilling as tools are shared across companies
+    - mechanism for knowledge transfer
+
+- Transparency
+    - tools are developed and evolve in the public domain
+
+
