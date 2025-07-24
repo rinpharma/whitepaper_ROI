@@ -1,8 +1,6 @@
----
-title: "R/Pharma Summit: ROI for Open-source adoption"
-format: html
-toc: true
----
+
+# R/Pharma Summit: ROI for Open-source adoption
+
 
 # Pre-Summit: Setting the Stage
 
@@ -20,11 +18,11 @@ TODO: Can we share this outline with attendees via email prior to the summit?
 
 ## Identify Key Questions
 
-Candidate questions: 
-What are the most compelling benefits of open-source adoption in pharma?
-What use cases and evidence exist showing ROI?
-What challenges must pharma companies overcome to successfully adopt open-source practices?
-How can we measure ROI effectively?
+Candidate questions:   
+What are the most compelling benefits of open-source adoption in pharma?  
+What use cases and evidence exist showing ROI?  
+What challenges must pharma companies overcome to successfully adopt open-source practices?  
+How can we measure ROI effectively?  
 
 # Interactive Summit Session (1-hour)
 
