@@ -14,12 +14,9 @@ TODO: Can we share this outline with attendees via email prior to the summit?
 
 ## Goal of Summit
 
-Craft an ROI pitch for different personas:
-- The established SAS developer
-- The early career R developer
-- CFO / Finance
-- Head of Biometrics / Programming
-- Head of Clinical Development
+Craft an ROI pitch for different perspectives:
+- A pharma / CRO organisation
+- The individual (e.g. experience SAS developer)
 - Regulatory Affairs Executive 
 
 # Interactive Summit Session (1-hour)
