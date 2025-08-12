@@ -19,21 +19,21 @@ Before the summit, prepare a basic outline or framework for the whitepaper.
 
 ## Polls (10 mins)
 
-What’s the top perceived quantitative benefit? 
-  a. Cost 
-  b. Efficiency 
-  c. Quality 
+What’s the top perceived quantitative benefit?   
+  a. Cost   
+  b. Efficiency   
+  c. Quality   
 
-What’s the top perceived qualitative benefit? 
-  a. Regulatory transparency 
-  b. Talent attraction and retention
-  c. Knowledge transfer
+What’s the top perceived qualitative benefit?   
+  a. Regulatory transparency   
+  b. Talent attraction and retention  
+  c. Knowledge transfer  
 
 What’s the top perceived barrier to adoption? 
-  a. Validation 
-  c. Training 
-  d. Cultural resistance
-  e. Leadership buy-in
+  a. Validation   
+  c. Training   
+  d. Cultural resistance  
+  e. Leadership buy-in  
 
 Who is the target audience? / Or something around helping us learn who are the key decision makers and how we can tailor the paper to this audience? 
   
