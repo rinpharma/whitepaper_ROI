@@ -21,6 +21,9 @@ Before the summit, prepare a basic outline or framework for the whitepaper.
 
 ## Polls (10 mins)
 
+**Let's pick max 3 from the following:**
+
+
 What’s the top perceived quantitative benefit?   
   a. Cost   
   b. Efficiency: computational  
@@ -40,14 +43,21 @@ What’s the top perceived barrier to adoption?
   d. Cultural resistance  
   e. Leadership buy-in  
 
-Who is the target audience? / Or something around helping us learn who are the key decision makers and how we can tailor the paper to this audience? 
+ Who are the decision makers that we need to influence? 
+   a. Clinical
+   b. Stats
+   c. Programming / biometrics
+   d. IT
+   e. Quality
+   f. Finance
+
+
   
   
 ## Open Disscussion 
 
 - Request for concrete examples
-- What data would the audience need to be convinced?
-- Who are the decision makers that we need to influence? 
+- What data would the audience value to be convince decision makes?
 
 
 
