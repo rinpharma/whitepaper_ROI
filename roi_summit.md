@@ -1,4 +1,4 @@
-
+  
 # R/Pharma Summit: ROI for Open-source adoption
 
 
@@ -43,13 +43,13 @@ What’s the top perceived barrier to adoption?
   d. Cultural resistance  
   e. Leadership buy-in  
 
- Who are the decision makers that we need to influence? 
-   a. Clinical
-   b. Stats
-   c. Programming / biometrics
-   d. IT
-   e. Quality
-   f. Finance
+ Who are the decision makers that we need to influence?   
+   a. Clinical  
+   b. Stats  
+   c. Programming / biometrics  
+   d. IT  
+   e. Quality  
+   f. Finance  
 
 
   
