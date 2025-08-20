@@ -23,7 +23,9 @@ Before the summit, prepare a basic outline or framework for the whitepaper.
 
 What’s the top perceived quantitative benefit?   
   a. Cost   
-  b. Efficiency   
+  b. Efficiency: computational
+  c. Efficiency: code re-use
+  d. Efficiency: tool maintenance
   c. Quality   
 
 What’s the top perceived qualitative benefit?   
@@ -31,7 +33,7 @@ What’s the top perceived qualitative benefit?
   b. Talent attraction and retention  
   c. Knowledge transfer  
 
-What’s the top perceived barrier to adoption? 
+What’s the top perceived barrier to adoption?   
   a. Validation   
   c. Training   
   d. Cultural resistance  
