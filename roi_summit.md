@@ -23,9 +23,9 @@ Before the summit, prepare a basic outline or framework for the whitepaper.
 
 What’s the top perceived quantitative benefit?   
   a. Cost   
-  b. Efficiency: computational
-  c. Efficiency: code re-use
-  d. Efficiency: tool maintenance
+  b. Efficiency: computational  
+  c. Efficiency: code re-use  
+  d. Efficiency: tool maintenance  
   c. Quality   
 
 What’s the top perceived qualitative benefit?   
