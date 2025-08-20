@@ -13,9 +13,11 @@ Before the summit, prepare a basic outline or framework for the whitepaper.
 
 - Purpose of the session (inform a whitepaper).
 
-- Why ROI is an important conversation for the adoption of open-source in clinical trials? 
+- Why ROI is an important conversation for the adoption of open-source in clinical trials?
 
-- Goal: Your contributions today will directly influence a published industry resource.
+- Example from James' presentation on how we can convey ROI, to prompt ideas. 
+
+- Your contributions today will directly influence a published industry resource.
 
 ## Polls (10 mins)
 
