@@ -26,12 +26,13 @@ What’s the top perceived quantitative benefit?
   b. Efficiency: computational  
   c. Efficiency: code re-use  
   d. Efficiency: tool maintenance  
-  c. Quality   
+  c. Quality: reduced quality issues  
 
 What’s the top perceived qualitative benefit?   
   a. Regulatory transparency   
   b. Talent attraction and retention  
   c. Knowledge transfer  
+  d. Quality: use of software eng best practices
 
 What’s the top perceived barrier to adoption?   
   a. Validation   
