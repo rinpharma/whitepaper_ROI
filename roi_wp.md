@@ -77,5 +77,8 @@ Options:
     - share your work publicly
 
 
+Notes:
+- fast follower 
+
 
 
