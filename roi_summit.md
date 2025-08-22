@@ -12,17 +12,19 @@ Before the summit, prepare a basic outline or framework for the whitepaper.
 ## Welcome and Context ( 10 mins)
 
 - Purpose of the session (inform a whitepaper).
+- What is that you need to communicate to your decision makers?
+- Where in the lifecycle (exploratory,)
+- Wishlist ...
 
 - Why ROI is an important conversation for the adoption of open-source in clinical trials?
 
-- Example from James' presentation on how we can convey ROI, to prompt ideas. 
+- Example from James' presentation / Phil's brain dump on how we can measure ROI, to prompt ideas 
 
 - Your contributions today will directly influence a published industry resource.
 
 ## Polls (10 mins)
 
 **Let's pick max 3 from the following:**
-
 
 What’s the top perceived quantitative benefit?   
   a. Cost   
@@ -37,11 +39,6 @@ What’s the top perceived qualitative benefit?
   c. Knowledge transfer  
   d. Quality: use of software eng best practices
 
-What’s the top perceived barrier to adoption?   
-  a. Validation   
-  c. Training   
-  d. Cultural resistance  
-  e. Leadership buy-in  
 
  Who are the decision makers that we need to influence?   
    a. Clinical  
@@ -51,11 +48,22 @@ What’s the top perceived barrier to adoption?
    e. Quality  
    f. Finance  
 
-
-  
+  What do we need to demystify? 
+    a. no cost saving  
+    b. validation conceptions  
+    c. proprietary is plug and play
+    d. not all or nothing (risk management)
+    
+Notes: 
+- invest to realise cost saving
+- core areas
+  - new hires (training)
+  - innovations (shiny, quarto, stats methods)
+  - cost / vendor lock in
+  - enterprise AI 
   
 ## Open Disscussion 
-
+- Ask for names. 
 - Request for concrete examples
 - What data would the audience value to be convince decision makes?
 
