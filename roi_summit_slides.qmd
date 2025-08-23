@@ -1,0 +1,39 @@
+---
+title: "Return on Investment: Open-source Adoption"
+author: "James Black, Phil Bowsher and Orla Doyle"
+format: revealjs
+---
+
+## The case for return on investment
+
+- Why ROI is an important conversation for the adoption of open-source in clinical trials?
+
+## Examples of how ROI is being measured and reported
+
+- Roche: James' slides
+- JnJ: https://nicholas-masel.github.io/posit2024/2024_posit_conf.html#/benefits-of-shift-to-shiny  
+- GSK  
+- Denali: https://phuse.s3.eu-central-1.amazonaws.com/Archive/2025/SDE/US/West+Windsor/PRE_WestWindsor08.pdf  
+
+## Goal of the whitepaper
+
+- Unified view of how open-source adoption will have impact   
+- Blueprint for people at different stages of the journey    
+    - Beginning: support making the case 
+    - Mid-Later stage: how to measure it  
+
+## Let's hear from you
+
+
+```{=html}
+<iframe src="https://wall.sli.do/event/o6TeNbYp7uz7ebWMJZSZmL/?section=3639324c-aa9d-4b7d-9d56-e7e10389ad5b"
+        style="width:100%; height:500px; border:none;"
+        allowfullscreen
+        data-external="1"></iframe>
+```
+
+## Wrap up
+
+- How might this type of paper help you? 
+- Roundtables - let's continue discussions on ROI
+- Volunteers to contribute to the ROI Whitepaper 
