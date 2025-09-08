@@ -1,0 +1,68 @@
+---
+title: "Return on Investment: Open-source Adoption"
+author: "James Black, Phil Bowsher and Orla Doyle"
+format: revealjs
+reference-location: document
+footer: "R/Pharma Summit 2025, Atlanta"
+---
+
+## Welcome
+
+![](images/roi_meme.jpeg)
+
+## ROI for open-source adoption
+
+Why is ROI an important conversation for open-source adoption?
+
+- We work in a high stakes yet risk averse industry. 
+
+- Value and impact of open-source is sometimes misunderstood. 
+
+- To acquire and / or sustain investment, business critical framing is often needed. 
+
+## Adoption and ROI on the Rise{.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+Ross Farugia, pharmaverse^[https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PRE_OS01.pdf]
+![](images/r_trajectory.png)
+
+Vincent Chen, Roche^[https://insightsengineering.github.io/nest-2023-summeR/resources/NEST_%20Now%20&%20Future.pdf]
+![](images/nest_roche.png)
+:::
+::: {.column width="50%"}
+Nick Masel, JnJ at posit conf 2024^[https://nicholas-masel.github.io/posit2024/2024_posit_conf.html#/benefits-of-shift-to-shiny]
+![](images/nick_m_shiny.png)
+James Black at R/Pharma 2024^[https://www.youtube.com/watch?v=TMZNcuvJS-0]
+![](images/james_b_roi.png)
+:::
+::: 
+
+
+
+
+## Proposal
+
+::: {.callout}
+# Whitepaper for ROI
+We suggest collaborating on a white paper to consolidate fragmented knowledge on ROI for open-source adoption in clinical trials—creating a shared evidence base for the entire industry.
+
+If you would like to be involved please email: phil@posit.co, james_alexander.black@novartis.com, orla.doyle@novartis.com, 
+:::
+ 
+
+## Let's hear from you
+
+
+```{=html}
+<iframe src="https://wall.sli.do/event/o6TeNbYp7uz7ebWMJZSZmL/?section=3639324c-aa9d-4b7d-9d56-e7e10389ad5b"
+        style="width:100%; height:500px; border:none;"
+        allowfullscreen
+        data-external="1"></iframe>
+```
+
+## Wrap up
+
+- How might this type of paper help you? 
+- Roundtables - let's continue discussions on ROI
+- Volunteers to contribute to the ROI Whitepaper 
