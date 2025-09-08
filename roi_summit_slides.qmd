@@ -2,25 +2,54 @@
 title: "Return on Investment: Open-source Adoption"
 author: "James Black, Phil Bowsher and Orla Doyle"
 format: revealjs
+reference-location: document
+footer: "R/Pharma Summit 2025, Atlanta"
 ---
 
-## The case for return on investment
+## Welcome
 
-- Why ROI is an important conversation for the adoption of open-source in clinical trials?
+![](images/roi_meme.jpeg)
 
-## Examples of how ROI is being measured and reported
+## ROI for open-source adoption
 
-- Roche: James' slides
-- JnJ: https://nicholas-masel.github.io/posit2024/2024_posit_conf.html#/benefits-of-shift-to-shiny  
-- GSK  
-- Denali: https://phuse.s3.eu-central-1.amazonaws.com/Archive/2025/SDE/US/West+Windsor/PRE_WestWindsor08.pdf  
+Why is ROI an important conversation for open-source adoption?
 
-## Goal of the whitepaper
+- We work in a high stakes yet risk averse industry. 
 
-- Unified view of how open-source adoption will have impact   
-- Blueprint for people at different stages of the journey    
-    - Beginning: support making the case 
-    - Mid-Later stage: how to measure it  
+- Value and impact of open-source is sometimes misunderstood. 
+
+- To acquire and / or sustain investment, business critical framing is often needed. 
+
+## Adoption and ROI on the Rise{.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+Ross Farugia, pharmaverse^[https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PRE_OS01.pdf]
+![](images/r_trajectory.png)
+
+Vincent Chen, Roche^[https://insightsengineering.github.io/nest-2023-summeR/resources/NEST_%20Now%20&%20Future.pdf]
+![](images/nest_roche.png)
+:::
+::: {.column width="50%"}
+Nick Masel, JnJ at posit conf 2024^[https://nicholas-masel.github.io/posit2024/2024_posit_conf.html#/benefits-of-shift-to-shiny]
+![](images/nick_m_shiny.png)
+James Black at R/Pharma 2024^[https://www.youtube.com/watch?v=TMZNcuvJS-0]
+![](images/james_b_roi.png)
+:::
+::: 
+
+
+
+
+## Proposal
+
+::: {.callout}
+# Whitepaper for ROI
+We suggest collaborating on a white paper to consolidate fragmented knowledge on ROI for open-source adoption in clinical trials—creating a shared evidence base for the entire industry.
+
+If you would like to be involved please email: phil@posit.co, james_alexander.black@novartis.com, orla.doyle@novartis.com, 
+:::
+ 
 
 ## Let's hear from you
 
