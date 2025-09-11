@@ -21,6 +21,9 @@ We could further split this into personas?
 
 Keeping it general for now: 
 
+- Skill portability
+    - Globally, academic training is overwhelmingly in open-source
+    - Outside pharma, open-source is dominant in data science and analytics
 - develop transferable skills 
     - usage of industry-wide tools and languages such a git, R
     - adopt to modern ways of working (agile, best practices)
