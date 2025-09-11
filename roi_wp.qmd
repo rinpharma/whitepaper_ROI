@@ -33,10 +33,10 @@ Keeping it general for now:
 - Efficiency
     - reduced single-use code
     - shared development and shared maintenance (we could use some of James' material here on commits, issues)
-    - Cross-functional synergy: using the same stack of tools across biometric and other computational functions (e.g. data science, real-world evidence) eases knowledge transfer and adds speed.
+    - Cross-functional synergy: using the same stack of tools across biometric and other computational functions (e.g. data science, real-world evidence) eases knowledge transfer and adds speed across R&D development cycle.
     - Increased agility through DevOps integration: Open source is better integrated with modern DevOps tools and practices. Access to key tools are often integrated into 
     packages for R and Python.
-    - Reduced infrastructure costs: not only there is no licensing fees for R and Python, but there is better economics in how they integrate with diversity of modern tools such as data and compute resources, where SDKs are often most mature for open source languages.
+    - Reduced infrastructure costs: not only there is no licensing fees for R and Python, but there is better economics in how they integrate with diversity of modern tools such as data and compute resources, where SDKs are often most mature for open source languages. Cheaper, better tools faster.
 
 - Quality
     - crowdsourced testing and issue tracking
@@ -49,6 +49,9 @@ Keeping it general for now:
 
 - Transparency
     - tools are developed and evolve in the public domain
+
+- Future Risk Mitigation
+    - Accelerating industry momentum toward open-source could suddenly expose organizations to legacy tool limitations and shrinking talent pools—risks that gradual, planned adoption mitigates.
 
 
 
