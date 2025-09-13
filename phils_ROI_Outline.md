@@ -8,6 +8,7 @@ Programming Language
 
 https://www.lexjansen.com/phuse/2024/os/PAP_OS01.pdf
 https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PRE_OS01.pdf
+
 https://github.com/philbowsher/Open-Source-in-New-Drug-Applications-NDAs-FDA
 
 Paper above has:
@@ -26,6 +27,7 @@ Top reasons by Roche and others: Collaboration
 
 # Big one is Collaboration such as detailed here:
 https://www.youtube.com/watch?v=dtdd_jc1ybw
+
 https://rconsortium.github.io/submissions-wg/
 
 JnJ did submissions using the Pilot info here:
