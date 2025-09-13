@@ -122,7 +122,8 @@ understand the priorities of the company and be creative to overcome the resourc
 # Another popular topic is Training and Free Educational Material: 
 
 Phuse Workshop:
-https://pharmaverse.github.io/phuse-sde-2024/https://pharmaverse.github.io/examples/
+https://pharmaverse.github.io/phuse-sde-2024/
+https://pharmaverse.github.io/examples/
 
 # Other ROIs:
 
