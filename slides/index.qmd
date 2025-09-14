@@ -68,6 +68,12 @@ We suggest collaborating on a white paper to consolidate fragmented knowledge on
 
 If you would like to be involved please email: phil@posit.co, james_alexander.black@novartis.com, orla.doyle@novartis.com, 
 :::
+
+## On the shoulders of *colleagues*
+
+- The [PHUSE whitepaper on OS](https://phuse-org.github.io/E2E-OS-Guidance/why.html) includes notes on the 'why'
+- The [PHUSE effort to discuss OS](https://phuse-org.github.io/OSTCDA/cost.html) currently has a gap in community engagement
+- Numerous talks exist. [Check out Phil's notes](https://github.com/rinpharma/whitepaper_ROI/blob/main/phils_ROI_Outline.md).
  
 
 ## Let's hear from you
