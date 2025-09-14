@@ -40,13 +40,13 @@ jobs:
         if: github.ref_name != 'main'  # render if not on main
         uses: quarto-dev/quarto-actions/render@v2
         with:
-          path: slides
+          path: presentation
 
       - name: Render Quarto & Publish to GitHub Pages
         if: github.ref_name == 'main'  # render + deploy on main
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          path: presentation
+          path: slides
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
