@@ -1,9 +1,28 @@
 ---
 title: "Return on Investment: Open-source Adoption"
-author: "James Black, Phil Bowsher and Orla Doyle"
-format: revealjs
-reference-location: document
-footer: "R/Pharma Summit 2025, Atlanta"
+author: "James Black & Orla Doyle ![](logos/novartis-logo.webp){height=30px style=\"vertical-align: middle;\"}, Ning Leng ![](logos/roche-logo.png){height=30px style=\"vertical-align: middle;\"}, Phil Bowsher ![](logos/posit-logo.png){height=30px style=\"vertical-align: middle;\"}"
+date: 2025-09-15
+format:
+  revealjs:
+    logo: ""
+    footer: "OS ROI | R/Pharma Summit | Atlanta 2025"
+    slide-number: true
+    chalkboard: true
+    multiplex: false
+    preview-links: auto
+    code-fold: false
+    code-tools: true
+    code-line-numbers: true
+    scrollable: true
+    incremental: false
+    transition: slide
+    background-transition: fade
+    highlight-style: github
+execute:
+  echo: true
+  warning: false
+  message: false
+  freeze: auto
 ---
 
 ## Welcome
