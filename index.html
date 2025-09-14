@@ -6,8 +6,8 @@
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-234273d1456647dabc34a594ac50e507.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.32">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-a6e161b2431e1f94a14e0f5d32135a3c.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.8.24">
 
   <meta name="author" content="James Black &amp; Orla Doyle , Ning Leng , Phil Bowsher ">
   <meta name="dcterms.date" content="2025-09-15">
@@ -30,7 +30,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-f563837468303362081e247dddd440d0.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-534cd8e3a96973385dffff3f4709048d.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -179,6 +179,14 @@ James Black &amp; Orla Doyle <img data-src="logos/novartis-logo.webp" style="ver
 </div>
 </div>
 </div>
+</section>
+<section id="on-the-shoulders-of-colleagues" class="slide level2">
+<h2>On the shoulders of <em>colleagues</em></h2>
+<ul>
+<li>The <a href="https://phuse-org.github.io/E2E-OS-Guidance/why.html">PHUSE whitepaper on OS</a> includes notes on the ‘why’</li>
+<li>The <a href="https://phuse-org.github.io/OSTCDA/cost.html">PHUSE effort to discuss OS</a> currently has a gap in community engagement</li>
+<li>Numerous talks exist. <a href="https://github.com/rinpharma/whitepaper_ROI/blob/main/phils_ROI_Outline.md">Check out Phil’s notes</a>.</li>
+</ul>
 </section>
 <section id="lets-hear-from-you" class="slide level2">
 <h2>Let’s hear from you</h2>
@@ -386,7 +394,7 @@ James Black &amp; Orla Doyle <img data-src="logos/novartis-logo.webp" style="ver
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -460,13 +468,14 @@ James Black &amp; Orla Doyle <img data-src="logos/novartis-logo.webp" style="ver
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy
